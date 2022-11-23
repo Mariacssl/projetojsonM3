@@ -1,0 +1,72 @@
+{
+    "tinta":[
+        {
+            "cor": "ruiva",
+            "marca": "Truss",
+            "id":1
+        },
+        {
+            "cor": "loira",
+            "marca": "Loreal",
+            "id":2
+        },
+        {
+            "cor": "castanho escuro",
+            "marca": "Igora",
+            "id":3
+        },
+        {
+            "cor": "borgonha",
+            "marca": "Wella",
+            "id":4
+        }
+
+    ],
+    "funcionarios":[
+        {
+            "nome":"Gisele",
+            "area":"gerente",
+            "id":1
+        },
+        {
+            "nome":"Ananda",
+            "area":"nail designer",
+            "id":2
+        },
+        {
+            "nome":"Elton",
+            "area":"cabelereiro",
+            "id":3
+        },
+        {
+            "nome":"Julia",
+            "area":"manicure",
+            "id":4
+        }
+    ],
+    "esmaltes":[
+        {
+            "tom": "rosa",
+            "nome":"Flamingo",
+            "id":1
+        },
+        {
+            "tom": "vermelho",
+            "nome":"Beijo",
+            "id":2
+        },
+        {
+            "tom": "laranja",
+            "nome":"Por do sol",
+            "id":3
+        },
+        {
+            "tom": "Branco",
+            "nome":"Batida de coco",
+            "id":4
+        }
+
+    ]
+
+    
+}
